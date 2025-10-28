@@ -1,6 +1,6 @@
 <h1>Hi, I'm Hafiz aka Pijo! <br/><a href="https://github.com/hellopijo">Network</a> and <a href="https://www.linkedin.com/in/hafiz-johari">Cybersecurity Enthutiast</a>
 
-<h3>"I'm a Computer Networking student driven by a high interest in securing networks. I'm currently immersed in the world of cybersecurity, continuously learning and exploring its depths while diligently maintaining my foundational networking knowledge. To stay ahead of market trends, I'm also acquiring basic skills in AI/ML<h3>
+<h3>I'm a Computer Networking student driven by a high interest in securing networks. I'm currently immersed in the world of cybersecurity, continuously learning and exploring its depths while diligently maintaining my foundational networking knowledge. To stay ahead of market trends, I'm also acquiring basic skills in AI/ML<h3>
 
 <h2>👨🏻‍💻 Lab/Projects:</h2>
 

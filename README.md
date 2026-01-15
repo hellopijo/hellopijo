@@ -3,22 +3,11 @@
 </h1>
 
 # A little about me
-I'm a Computer Networking student driven by a high interest in securing networks. I'm currently immersed in the world of cybersecurity, continuously learning and exploring its depths while diligently maintaining my foundational networking knowledge. To stay ahead of market trends, I'm also acquiring basic skills in AI/ML
+I’m a Computer Networking student with a strong interest in breaking and securing systems. Right now, I’m deep into cybersecurity, constantly learning and exploring different areas while still keeping my networking fundamentals sharp. This GitHub is mainly for my CTF writeups, and I’ll be adding more content over time as I learn and solve new challenges.
 
-## 👨🏻‍💻 Lab/Projects
+## CTF Writeup
 
-- [SOC Home Lab (Virtualbox, Kali Linux, Ubuntu, Windows 10)](https://github.com/hellopijo/)
-- [TryHackMe Labs](https://github.com/hellopijo/)
-- [PowerShell Project](https://github.com/hellopijo/)
-- [HackTheBox Labs](https://github.com/hellopijo/)
-- [Log Analyzer with LLM](https://github.com/hellopijo/)
-
-## 📋 Internship Experience
-
-- [Designing Two Tier Firewall Network (Forcepont NGFW, GNS3)](https://github.com//hellopijo/)
-- [Royal Malaysia Custom Deparment(RMCD) Staging Projects](https://github.com/hellopijo/)
-
-<h2> 🤳 Connect with me:</h2>
+- [Reverse Engineering]([https://github.com/hellopijo/](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering))
 
 
 <!--

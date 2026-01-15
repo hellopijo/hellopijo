@@ -10,6 +10,9 @@ I’m a Computer Networking student with a strong interest in breaking and secur
 [Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
 
 
+## SOC Lab writeup
+
+[Letsdefend](https://github.com/hellopijo/Lets-Defend)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

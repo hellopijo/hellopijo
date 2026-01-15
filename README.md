@@ -7,7 +7,7 @@ I’m a Computer Networking student with a strong interest in breaking and secur
 
 ## CTF Writeup
 
-- [Reverse Engineering]([https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering])
+- [Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
 
 
 <!--

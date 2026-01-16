@@ -11,7 +11,7 @@ I’m a Computer Networking student with a strong interest in breaking and secur
 
 [Web]
 
-[Forensic]
+[Forensic](https://github.com/hellopijo/Ctf-writeup/tree/main/forensic)
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

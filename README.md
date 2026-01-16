@@ -8,8 +8,10 @@ I’m a Computer Networking student with a strong interest in breaking and secur
 ## CTF Writeup
 
 [Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
-Web
-Forensic
+
+[Web]
+
+[Forensic]
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

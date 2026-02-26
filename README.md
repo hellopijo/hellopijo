@@ -3,7 +3,7 @@
 </h1>
 
 # A little about me
-I’m a Computer Networking student with a strong interest in breaking and securing systems. Right now, I’m deep into cybersecurity, constantly learning and exploring different areas while still keeping my networking fundamentals sharp. This GitHub is mainly for my CTF writeups, and I’ll be adding more content over time as I learn and solve new challenges.
+CompTIA Security+ Certified with strong interest in breaking and securing systems. Degree in Computer Networking, I'm constantly learning and exploring different areas in cybersecurity while still keeping my networking fundamentals sharp. This GitHub page is one of my initiative to document my learning, writeups and projects to deep dive into security domain.
 
 ## Writeups
 

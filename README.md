@@ -5,18 +5,16 @@
 # A little about me
 I’m a Computer Networking student with a strong interest in breaking and securing systems. Right now, I’m deep into cybersecurity, constantly learning and exploring different areas while still keeping my networking fundamentals sharp. This GitHub is mainly for my CTF writeups, and I’ll be adding more content over time as I learn and solve new challenges.
 
-## CTF Writeup
+## Writeups
 
-### [Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
+### [CTF Competition](https://github.com/hellopijo/Ctf-writeup)
+### [HackTheBox]
+### [TryHackMe]
+### [PicoCTF]
 
-### [Web](https://github.com/hellopijo/Ctf-writeup/tree/main/web/cookie)
+# Projects
 
-### [Forensic](https://github.com/hellopijo/Ctf-writeup/tree/main/forensic)
-
-
-## I'm currently working on SIEM Home Lab using ELK Stack 
-Will update over time
-
+### SIEM Home Lab using ELK Stack (on-going)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

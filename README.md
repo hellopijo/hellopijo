@@ -7,11 +7,15 @@ I’m a Computer Networking student with a strong interest in breaking and secur
 
 ## CTF Writeup
 
-[Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
+### [Reverse Engineering](https://github.com/hellopijo/Ctf-writeup/tree/main/reverse-engineering)
 
-[Web]
+### [Web](https://github.com/hellopijo/Ctf-writeup/tree/main/web/cookie)
 
-[Forensic](https://github.com/hellopijo/Ctf-writeup/tree/main/forensic)
+### [Forensic](https://github.com/hellopijo/Ctf-writeup/tree/main/forensic)
+
+
+## I'm currently working on SIEM Home Lab using ELK Stack 
+Will update over time
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,28 +1,53 @@
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=MRighteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Hafiz+aka+Pijo!;+I'm+Network+and+Security+Enthutiast;" />
-</h1>
+<div align="left" style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;">
 
-# A little about me
-Computer Networking Graduate with hands on knowledge in configuring NGFW (Sangfor and Forcepoint) through internship experience. CompTIA Security+ Certified.  I'm constantly learning and exploring different areas in network and security domains. This GitHub page is one of my initiative to document my learning.
+  <h1>Hi there, I'm Hafiz 👋</h1>
+  <p style="color: #57606a; font-size: 15px; margin-top: -4px;">Security Operations Analyst | Network Security Enthusiast</p>
 
-## Writeups
+  <hr style="border: 0; border-top: 1px solid #d0d7de; margin: 20px 0;" />
 
-### [CTF Competition](https://github.com/hellopijo/Ctf-writeup)
+  <h2 style="font-size: 18px; font-weight: 600; color: #1f2328; margin-bottom: 12px;">About Me</h2>
+  <p style="color: #24292e; line-height: 1.6; font-size: 14px;">
+    I am a Network Security graduate currently working as a <strong>Security Operations Analyst</strong>. 
+    I specialize in monitoring security alerts, incident triage, and analyzing network infrastructure defenses. 
+    Outside of work, I spend my time tackling CTFs, analyzing malware, and exploring enterprise security solutions.
+  </p>
+  
+  <p style="margin-top: 8px;">
+    <span style="display: inline-block; padding: 2px 10px; font-size: 12px; color: #57606a; background-color: #f0f2f4; border-radius: 12px; margin-right: 4px;">Blue Team</span>
+    <span style="display: inline-block; padding: 2px 10px; font-size: 12px; color: #57606a; background-color: #f0f2f4; border-radius: 12px; margin-right: 4px;">CTF / HTB</span>
+    <span style="display: inline-block; padding: 2px 10px; font-size: 12px; color: #57606a; background-color: #f0f2f4; border-radius: 12px; margin-right: 4px;">Network Security</span>
+  </p>
 
-## Labs
+  <h2 style="font-size: 18px; font-weight: 600; color: #1f2328; margin-top: 28px; margin-bottom: 12px;">Labs &amp; Projects</h2>
+  <p style="color: #57606a; font-size: 13px; margin-top: -8px; margin-bottom: 12px;">Hands-on environments, network deployments, and security configurations.</p>
+  
+  <ul style="padding-left: 20px; line-height: 1.8; font-size: 14px; color: #24292e;">
+    <li>
+      <a href="https://github.com/YOUR_USERNAME/LAB_REPO_1" style="color: #0969da; font-weight: 500; text-decoration: none;">Enterprise Firewall Deployment Lab</a> 
+      - <span style="color: #57606a;">Configuring Next-Generation Firewalls (NGFW) with granular access control policies and SSL inspection.</span>
+    </li>
+    <li>
+      <a href="https://github.com/YOUR_USERNAME/LAB_REPO_2" style="color: #0969da; font-weight: 500; text-decoration: none;">SOC SIEM Monitoring &amp; Detection Lab</a> 
+      - <span style="color: #57606a;">Setting up Elastic stack to ingest log sources, parse alerts, and build custom detection rules.</span>
+    </li>
+    <li>
+      <a href="https://github.com/YOUR_USERNAME/LAB_REPO_3" style="color: #0969da; font-weight: 500; text-decoration: none;">Active Directory Attack Range</a> 
+      - <span style="color: #57606a;">Local laboratory simulating internal domain exploits, Kerberoasting, and privilege escalation vectors.</span>
+    </li>
+  </ul>
 
-### [Packet Tracer Labs](https://github.com/hellopijo/packet-tracer-labs)
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2 style="font-size: 18px; font-weight: 600; color: #1f2328; margin-top: 28px; margin-bottom: 12px;">Writeups</h2>
+  <p style="color: #57606a; font-size: 13px; margin-top: -8px; margin-bottom: 12px;">Detailed walkthroughs for Capture The Flag (CTF) challenges and Hack The Box machines.</p>
+  
+  <ul style="padding-left: 20px; line-height: 1.8; font-size: 14px; color: #24292e;">
+    <li>
+      <a href="https://github.com/YOUR_USERNAME/WRITEUP_LINK_1" style="color: #0969da; font-weight: 500; text-decoration: none;">Hack The Box - Machine Name (Seasonal)</a> 
+      - <span style="color: #57606a;">Detailed analysis covering initial foothold via web exploit to root privilege escalation.</span>
+    </li>
+    <li>
+      <a href="https://github.com/YOUR_USERNAME/WRITEUP_LINK_2" style="color: #0969da; font-weight: 500; text-decoration: none;">iCTFF8 National Finals Walkthrough</a> 
+      - <span style="color: #57606a;">Breakdown of jeopardy-style challenges focusing on Network Forensics and Cryptography.</span>
+    </li>
+  </ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

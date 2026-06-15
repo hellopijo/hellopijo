@@ -8,13 +8,10 @@ Computer Networking Graduate with hands on knowledge in configuring NGFW (Sangfo
 ## Writeups
 
 ### [CTF Competition](https://github.com/hellopijo/Ctf-writeup)
-### [HackTheBox]
-### [TryHackMe]
-### [PicoCTF]
 
-# Projects
+## Labs
 
-### SIEM Home Lab using ELK Stack (on-going)
+### [Packet Tracer Labs](https://github.com/hellopijo/packet-tracer-labs)
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

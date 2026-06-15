@@ -1,9 +1,9 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=MRighteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Hafiz+aka+Pijo!;+I'm+Network+and+Cybersecurity+Enthutiast;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=MRighteous&size=35&center=true&vCenter=true&width=1000&height=70&duration=5000&lines=Hi+There!+👋;+I'm+Hafiz+aka+Pijo!;+I'm+Network+and+Security+Enthutiast;" />
 </h1>
 
 # A little about me
-CompTIA Security+ Certified with strong interest in breaking and securing systems. Degree in Computer Networking, I'm constantly learning and exploring different areas in cybersecurity while still keeping my networking fundamentals sharp. This GitHub page is one of my initiative to document my learning, writeups and projects to deep dive into security domain.
+Computer Networking Graduate with hands on knowledge in configuring NGFW (Sangfor and Forcepoint) through internship experience. CompTIA Security+ Certified.  I'm constantly learning and exploring different areas in network and security domains. This GitHub page is one of my initiative to document my learning.
 
 ## Writeups
 
